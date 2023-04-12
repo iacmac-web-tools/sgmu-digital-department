@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Цель проекта on СГМУ | Цифровая кафедра</title>
+    <link>https://dd.smolgmu.ru/about/</link>
+    <description>Recent content in Цель проекта on СГМУ | Цифровая кафедра</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    
+	<atom:link href="https://dd.smolgmu.ru/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

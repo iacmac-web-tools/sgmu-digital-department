@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Объявление on СГМУ | Цифровая кафедра</title>
+    <link>https://dd.smolgmu.ru/tags/%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+    <description>Recent content in Объявление on СГМУ | Цифровая кафедра</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 07 Sep 2022 11:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://dd.smolgmu.ru/tags/%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Завершен приём на курс</title>
+      <link>https://dd.smolgmu.ru/blog/blog-post-4/</link>
+      <pubDate>Wed, 07 Sep 2022 11:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/blog/blog-post-4/</guid>
+      <description>Завершился приём документов на курс «Наука о данных в медицине» Благодарим всех, кто зарегистрировался на курс профессиональной переподготовки «Анализ биомедицинских данных».</description>
+    </item>
+    
+    <item>
+      <title>Приём документов на курс «Наука о данных в медицине»</title>
+      <link>https://dd.smolgmu.ru/blog/blog-post-3/</link>
+      <pubDate>Tue, 23 Aug 2022 15:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/blog/blog-post-3/</guid>
+      <description>Приём документов на курс «Наука о данных в медицине» Уважаемые студенты СГМУ!</description>
+    </item>
+    
+  </channel>
+</rss>

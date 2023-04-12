@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Наши курсы on СГМУ | Цифровая кафедра</title>
+    <link>https://dd.smolgmu.ru/course/</link>
+    <description>Recent content in Наши курсы on СГМУ | Цифровая кафедра</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sat, 10 Sep 2022 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://dd.smolgmu.ru/course/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Наука о данных в медицине</title>
+      <link>https://dd.smolgmu.ru/course/course-1/</link>
+      <pubDate>Sat, 10 Sep 2022 15:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/course/course-1/</guid>
+      <description>О курсе Программа профессиональной переподготовки «Наука о данных в медицине» реализуется в Смоленском государственном медицинском университете в рамках проекта «Цифровые кафедры» федерального проекта «Развитие кадрового потенциала ИТ-отрасли» национальной программы «Цифровая экономика Российской Федерации», а также постановления Правительства Российской Федерации от 13 мая 2021 г.</description>
+    </item>
+    
+  </channel>
+</rss>

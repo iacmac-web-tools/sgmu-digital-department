@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Приоритет2030 on СГМУ | Цифровая кафедра</title>
+    <link>https://dd.smolgmu.ru/categories/%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%822030/</link>
+    <description>Recent content in Приоритет2030 on СГМУ | Цифровая кафедра</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 29 Dec 2021 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://dd.smolgmu.ru/categories/%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%822030/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Консорциум «Цифровая медицина и приборостроение»</title>
+      <link>https://dd.smolgmu.ru/blog/blog-post-2/</link>
+      <pubDate>Wed, 29 Dec 2021 15:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/blog/blog-post-2/</guid>
+      <description>Консорциум «Цифровая медицина и приборостроение» В рамках программы развития Смоленского государственного медицинского университета до 2030 года «Приоритет2030^» (стратегический проект №1 «Сетевая университетская кооперация в сфере data science в медицине») создан Консорциум для разработки и внедрения наукоемких инструментов (приборов) и технологий для анализа и извлечения знаний из биомедицинских данных и объектов — «Цифровая медицина и приборостроение».</description>
+    </item>
+    
+    <item>
+      <title>СГМУ вошел в программу ПРИОРИТЕТ2030</title>
+      <link>https://dd.smolgmu.ru/blog/blog-post-1/</link>
+      <pubDate>Tue, 28 Sep 2021 15:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/blog/blog-post-1/</guid>
+      <description>СГМУ вошел в программу ПРИОРИТЕТ2030 27.09.2021 г. министр науки и высшего образования РФ В.</description>
+    </item>
+    
+  </channel>
+</rss>

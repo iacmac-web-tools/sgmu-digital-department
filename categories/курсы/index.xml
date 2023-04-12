@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Курсы on СГМУ | Цифровая кафедра</title>
+    <link>https://dd.smolgmu.ru/categories/%D0%BA%D1%83%D1%80%D1%81%D1%8B/</link>
+    <description>Recent content in Курсы on СГМУ | Цифровая кафедра</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 16 Jan 2023 11:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://dd.smolgmu.ru/categories/%D0%BA%D1%83%D1%80%D1%81%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Студенты курса «Наука о данных в медицине» успешно прошли ассессмент</title>
+      <link>https://dd.smolgmu.ru/blog/blog-post-5/</link>
+      <pubDate>Mon, 16 Jan 2023 11:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/blog/blog-post-5/</guid>
+      <description>В конце декабря 318 студентов цифровой кафедры Смоленского медуниверситета успешно прошли промежуточную оценку компетенций по созданию программного обеспечения с использованием систем управления базами данных в рамках курса «Наука о данных в медицине», по итогам которой:</description>
+    </item>
+    
+    <item>
+      <title>Завершен приём на курс</title>
+      <link>https://dd.smolgmu.ru/blog/blog-post-4/</link>
+      <pubDate>Wed, 07 Sep 2022 11:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/blog/blog-post-4/</guid>
+      <description>Завершился приём документов на курс «Наука о данных в медицине» Благодарим всех, кто зарегистрировался на курс профессиональной переподготовки «Анализ биомедицинских данных».</description>
+    </item>
+    
+    <item>
+      <title>Приём документов на курс «Наука о данных в медицине»</title>
+      <link>https://dd.smolgmu.ru/blog/blog-post-3/</link>
+      <pubDate>Tue, 23 Aug 2022 15:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/blog/blog-post-3/</guid>
+      <description>Приём документов на курс «Наука о данных в медицине» Уважаемые студенты СГМУ!</description>
+    </item>
+    
+  </channel>
+</rss>

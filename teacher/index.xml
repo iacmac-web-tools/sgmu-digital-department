@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Команда проекта on СГМУ | Цифровая кафедра</title>
+    <link>https://dd.smolgmu.ru/teacher/</link>
+    <description>Recent content in Команда проекта on СГМУ | Цифровая кафедра</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    
+	<atom:link href="https://dd.smolgmu.ru/teacher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Виноградова Алина Геннадьевна</title>
+      <link>https://dd.smolgmu.ru/teacher/vinogradova-ag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/teacher/vinogradova-ag/</guid>
+      <description>Биография Подразделение Научно-исследовательский институт антимикробной химиотерапии, Сотрудничающий центр ВОЗ по укреплению потенциала в сфере надзора и исследований антимикробной резистентности.</description>
+    </item>
+    
+    <item>
+      <title>Кузьменков Алексей Юрьевич</title>
+      <link>https://dd.smolgmu.ru/teacher/kuzmenkov-ay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/teacher/kuzmenkov-ay/</guid>
+      <description>Биография Подразделение Научно-исследовательский институт антимикробной химиотерапии, Сотрудничающий центр ВОЗ по укреплению потенциала в сфере надзора и исследований антимикробной резистентности.</description>
+    </item>
+    
+  </channel>
+</rss>

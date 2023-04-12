@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on СГМУ | Цифровая кафедра</title>
+    <link>https://dd.smolgmu.ru/tags/</link>
+    <description>Recent content in Tags on СГМУ | Цифровая кафедра</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 16 Jan 2023 11:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://dd.smolgmu.ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Новость</title>
+      <link>https://dd.smolgmu.ru/tags/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C/</link>
+      <pubDate>Mon, 16 Jan 2023 11:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/tags/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Объявление</title>
+      <link>https://dd.smolgmu.ru/tags/%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <pubDate>Wed, 07 Sep 2022 11:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/tags/%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Приоритет2030</title>
+      <link>https://dd.smolgmu.ru/tags/%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%822030/</link>
+      <pubDate>Wed, 29 Dec 2021 15:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/tags/%D0%BF%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%822030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>СГМУ</title>
+      <link>https://dd.smolgmu.ru/tags/%D1%81%D0%B3%D0%BC%D1%83/</link>
+      <pubDate>Wed, 29 Dec 2021 15:27:17 +0600</pubDate>
+      
+      <guid>https://dd.smolgmu.ru/tags/%D1%81%D0%B3%D0%BC%D1%83/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
